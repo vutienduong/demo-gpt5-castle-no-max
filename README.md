@@ -68,5 +68,6 @@ The included `public/pop.mp3` is a tiny placeholder sample fetched from `naptha/
 This project is provided as-is for demo purposes.
 
 ## Demo
-<img width="1344" height="750" alt="Screenshot 2025-08-10 at 22 17 29" src="https://github.com/user-attachments/assets/d70c7452-8cd1-4b05-88b0-cec85b7c0c38" />
+<img width="1349" height="751" alt="Screenshot 2025-08-09 at 21 53 27" src="https://github.com/user-attachments/assets/698e6d03-a5fa-4e1b-a679-25f628fbee30" />
+
 
